@@ -2,8 +2,10 @@
 DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,epochtimes.com.tw
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voachinese.cn
 DOMAIN-SUFFIX,appledaily.com.hk
 DOMAIN-SUFFIX,nextdigital.com.hk
 DOMAIN-SUFFIX,dalailama.com
@@ -14,6 +16,7 @@ DOMAIN-SUFFIX,freetibet.org
 DOMAIN-SUFFIX,citizenpowerforchina.org
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,tibet.net
 DOMAIN-SUFFIX,jw.org
@@ -21,7 +24,7 @@ DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,yam.com
-DOMAIN-SUFFIX,chinadigitaltimes
+DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,mpweekly.com
 DOMAIN-SUFFIX,cup.com.hk
@@ -45,8 +48,7 @@ DOMAIN-SUFFIX,aboluowang.com
 DOMAIN-SUFFIX,2047.name
 DOMAIN-SUFFIX,shu.best
 DOMAIN-SUFFIX,shenyunperformingarts.org
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,cirosantilli
+DOMAIN-SUFFIX,cirosantilli.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,chinapress.com.my
@@ -61,7 +63,6 @@ DOMAIN-SUFFIX,irmct.org
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,dongtaiwang.com
-DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,ultrasurf.us
 DOMAIN-SUFFIX,yibaochina.com
 DOMAIN-SUFFIX,roc-taiwan.org
@@ -69,8 +70,8 @@ DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,ydn.com.tw
 DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,udn.com.tw
 DOMAIN-SUFFIX,theaustralian.com.au
-DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,voacantonese.com
 DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,bitterwinter.org
@@ -85,7 +86,6 @@ DOMAIN-SUFFIX,dafahao.com
 DOMAIN-SUFFIX,shenyuncreations.com
 DOMAIN-SUFFIX,tgcchinese.org
 DOMAIN-SUFFIX,botanwang.com
-DOMAIN-SUFFIX,falungong
 DOMAIN-SUFFIX,freedomhouse.org
 DOMAIN-SUFFIX,abc.net.au
 
