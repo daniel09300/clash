@@ -1,5 +1,10 @@
 # > Fac
 DOMAIN-SUFFIX,makima.online
 
-# > Rec
+# > MICU
 DOMAIN-SUFFIX,micu.hk
+
+# > UltraMobile
+DOMAIN-SUFFIX,3gppnetwork.org
+IP-CIDR,206.29.177.36/32
+IP-CIDR,208.54.0.0/16
