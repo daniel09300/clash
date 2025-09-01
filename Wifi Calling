@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,3gppnetwork.org
+DOMAIN-SUFFIX,epc.att.net
+DOMAIN-SUFFIX,mobile.att.net
+IP-CIDR,206.29.177.36/32
+IP-CIDR,208.54.0.0/16
