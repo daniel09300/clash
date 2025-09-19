@@ -1,4 +1,22 @@
-DOMAIN-SUFFIX,3gppnetwork.org
+# 地区检测
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+# Ultra
+DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,epc.att.net
 DOMAIN-SUFFIX,mobile.att.net
-DOMAIN-SUFFIX,msg.t-mobile.com          
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
+# 沃达丰
+DOMAIN-SUFFIX, epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX, ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX, ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX, entsrv-uk.vodafone.com
+DOMAIN-SUFFIX, vuk-gto.prod.ondemandconnectivity.com
+IP-CIDR,88.82.0.0/19,no-resolve
+# CMLinkUK EE
+IP-CIDR,46.68.0.0/17,no-resolve
+# Giffgaff
+IP-CIDR,87.194.0.0/16,no-resolve
