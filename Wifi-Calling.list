@@ -1,12 +1,14 @@
 # 地区检测
 DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
 # Ultra
-DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,eas3.msg.t-mobile.com
 DOMAIN-SUFFIX,epc.att.net
 DOMAIN-SUFFIX,mobile.att.net
+DOMAIN-SUFFIX,pub.3gppnetwork.org
 IP-CIDR,206.29.177.36/32,no-resolve
 IP-CIDR,208.54.0.0/16,no-resolve
 # 沃达丰
@@ -21,4 +23,3 @@ IP-CIDR,46.68.0.0/17,no-resolve
 # Giffgaff
 IP-CIDR,87.194.0.0/16,no-resolve
 # 兜底
-DOMAIN-SUFFIX,pub.3gppnetwork.org
