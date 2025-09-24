@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,5msky.com
 DOMAIN-SUFFIX,embymv.link
+DST-PORT,8096
+DST-PORT,8920
 
 # > mkm
 DOMAIN-SUFFIX,313445.xyz
