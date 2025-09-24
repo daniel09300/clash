@@ -6,8 +6,7 @@ DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,jingzhe.pro
 DOMAIN-SUFFIX,5msky.com
 DOMAIN-SUFFIX,embymv.link
-DST-PORT,8096
-DST-PORT,8920
+IP-CIDR,193.123.232.141/32,no-resolve
 
 # > mkm
 DOMAIN-SUFFIX,313445.xyz
