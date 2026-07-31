@@ -1,13 +1,4 @@
 # > 公益
-DOMAIN-SUFFIX,nanflix.net
-DOMAIN-SUFFIX,wenjian.de
-DOMAIN-SUFFIX,nijigem.by
-DOMAIN-SUFFIX,jingzhe.pro
-DOMAIN-SUFFIX,5msky.com
-DOMAIN-SUFFIX,embymv.link
-DOMAIN-SUFFIX,emby.my
-DOMAIN-SUFFIX,yezi.my
-DOMAIN-SUFFIX,feiyue.lol
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
@@ -60,6 +51,15 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
+DOMAIN-SUFFIX,nanflix.net
+DOMAIN-SUFFIX,wenjian.de
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,5msky.com
+DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,yezi.my
+DOMAIN-SUFFIX,feiyue.lol
 
 # > mkm
 DOMAIN-SUFFIX,313445.xyz
